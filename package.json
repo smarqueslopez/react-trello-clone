@@ -20,7 +20,6 @@
     "url": "https://github.com/smarqueslopez/react-trello-clone/issues"
   },
   "dependencies": {
-    "@material-ui/core": "4.11.4",
     "next": "10.2.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
