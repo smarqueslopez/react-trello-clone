@@ -1,5 +1,4 @@
 import { IconButton } from '@material-ui/core'
-import React from 'react'
 import styled from 'styled-components'
 import DashboardIcon from '@material-ui/icons/Dashboard'
 import MenuIcon from '@material-ui/icons/Menu'
